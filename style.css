@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: poppins, sans-serif;
+  text-align: center;
+  font-size: 25px;
+}
+body {
+  background-color: #efebe0;
+}
+h1 {
+  margin-top: 30px;
+  color: black;
+  padding: 20px;
+  font-weight: bold;
+  font-size: 35px;
+}
+#text {
+  padding: 20px;
+}
+#secret-number {
+  font-size: 50px;
+  background-color: black;
+  color: #eee;
+  width: 80px;
+  margin: auto;
+  padding: 30px;
+}
+#s1 {
+  padding: 30px;
+}
+.but {
+  width: 100px;
+  height: 35px;
+}
+#sentence,
+#s32 {
+  padding-left: 50px;
+}
+#check,
+#play-again {
+  background-color: black;
+  color: #eee;
+}
+#s2,
+#s3 {
+  padding-bottom: 30px;
+}
+#play-again {
+  height: 35px;
+  width: 160px;
+}
